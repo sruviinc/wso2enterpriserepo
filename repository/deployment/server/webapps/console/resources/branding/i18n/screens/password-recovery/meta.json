@@ -1,0 +1,17 @@
+{
+  "password.recovery.heading": {
+    "EDITABLE": true,
+    "SCREEN": "password-recovery",
+    "MULTI_LINE": false
+  },
+  "password.recovery.body": {
+    "EDITABLE": true,
+    "SCREEN": "password-recovery",
+    "MULTI_LINE": true
+  },
+  "password.recovery.button": {
+    "EDITABLE": true,
+    "SCREEN": "password-recovery",
+    "MULTI_LINE": false
+  }
+}

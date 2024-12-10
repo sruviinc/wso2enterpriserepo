@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[435],{435:(e,n,o)=>{o.r(n),o.d(n,{default:()=>t});var s=o(81816),c=o(52983);const t=function(){return c.createElement(s.$0,{description:"Loaded dynamically from extension configuration.",header:"Dynamic Component"})}}}]);

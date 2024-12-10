@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[42904],{42904:(e,s,o)=>{o.r(s),o.d(s,{AuthorizeAPIResource:()=>u.AuthorizeAPIResource});var u=o(65123)}}]);

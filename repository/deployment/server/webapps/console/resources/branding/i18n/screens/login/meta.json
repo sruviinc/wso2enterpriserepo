@@ -1,0 +1,12 @@
+{
+  "login.heading": {
+    "EDITABLE": true,
+    "SCREEN": "login",
+    "MULTI_LINE": false
+  },
+  "login.button": {
+    "EDITABLE": true,
+    "SCREEN": "login",
+    "MULTI_LINE": false
+  }
+}

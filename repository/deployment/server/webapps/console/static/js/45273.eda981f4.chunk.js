@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[45273],{45273:(s,e,o)=>{var i;o.r(e),o.d(e,{AddAPIResourceWizardStepsFormTypes:()=>i}),function(s){s.BASIC_DETAILS="BasicDetails",s.AUTHORIZATION="Authorization",s.PERMISSIONS="Permission"}(i||(i={}))}}]);

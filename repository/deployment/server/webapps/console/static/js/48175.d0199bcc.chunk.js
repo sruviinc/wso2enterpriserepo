@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[48175],{48175:(s,o,e)=>{var n;e.r(o),e.d(o,{SupportedTraditionalSAMLAppTechnologyTypes:()=>n}),function(s){s.JAVA_EE="Java EE"}(n||(n={}))}}]);

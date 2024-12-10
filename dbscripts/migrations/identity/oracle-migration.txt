@@ -1,0 +1,12 @@
+# Update 9879
+# This contains the database changes required to be applied for update 9879
+
+CREATE OR REPLACE TRIGGER IDN_ORG_USER_INVITE_ASSIGNMENT_TRIG
+            BEFORE INSERT
+            ON IDN_ORG_USER_INVITE_ASSIGNMENT
+            REFERENCING NEW AS NEW
+            FOR EACH ROW
+            BEGIN
+                SELECT IDN_ORG_USER_INVITE_ASSIGNMENT_SEQ.nextval INTO :NEW.ID FROM dual;
+            END;
+/

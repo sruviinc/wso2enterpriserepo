@@ -1,0 +1,5 @@
+{
+  "password.recovery.heading": "¿Has olvidado tu contraseña?",
+  "password.recovery.body": "No te preocupes, sucede. Le enviaremos un correo electrónico para restablecer su contraseña.",
+  "password.recovery.button": "Enviar enlace de reinicio"
+}

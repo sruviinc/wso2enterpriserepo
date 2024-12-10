@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<feature id="org.wso2.carbon.identity.oauth2.validators.xacml.server" label="Identity XACML based scope validator Feature for OAuth access token" provider-name="%providerName" version="2.5.1">
+  <description>This feature contains feature XACML based scope validator Feature for OAuth access token</description>
+  <copyright>%copyright</copyright>
+  <license url="%licenseURL">%license</license>
+  <require>
+    <import feature="org.wso2.carbon.identity.application.authentication.framework.server" match="greaterOrEqual" version="5.20.322"/>
+    <import feature="org.wso2.carbon.identity.core.server" match="greaterOrEqual" version="5.20.322"/>
+    <import feature="org.wso2.carbon.core" match="compatible" version="4.6.0"/>
+    <import feature="org.wso2.carbon.identity.xacml.server" match="greaterOrEqual" version="5.20.322"/>
+  </require>
+</feature>

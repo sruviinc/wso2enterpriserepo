@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[62199],{62199:(s,e,n)=>{n.r(e),n.d(e,{AddTenantWizard:()=>a.AddTenantWizard});var a=n(84464)}}]);

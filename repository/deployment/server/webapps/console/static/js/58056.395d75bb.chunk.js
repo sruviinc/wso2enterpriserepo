@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[58056],{58056:(s,o,e)=>{var n;e.r(o),e.d(o,{SupportedTraditionalOIDCAppTechnologyTypes:()=>n}),function(s){s.JAVA_EE="Java EE",s.DOT_NET=".NET"}(n||(n={}))}}]);

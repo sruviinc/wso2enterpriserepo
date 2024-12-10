@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[54362],{54362:(s,e,o)=>{var c;o.r(e),o.d(e,{UsernameTypes:()=>c}),function(s){s.EMAIL="emailType",s.ALPHANUMERIC="customType"}(c||(c={}))}}]);

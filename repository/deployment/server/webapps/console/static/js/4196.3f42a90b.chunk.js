@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[4196],{4196:(e,a,n)=>{n.r(a),n.d(a,{addNewTenant:()=>t.addNewTenant,checkDuplicateTenants:()=>t.checkDuplicateTenants,getAssociatedTenants:()=>t.getAssociatedTenants,getDomainQueryParam:()=>t.getDomainQueryParam,makeTenantDefault:()=>t.makeTenantDefault});var t=n(26419)}}]);

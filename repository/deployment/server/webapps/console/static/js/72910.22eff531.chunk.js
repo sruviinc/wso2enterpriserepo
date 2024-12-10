@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[72910],{72910:(s,o,e)=>{e.r(o),e.d(o,{BasicGroupDetails:()=>i.BasicGroupDetails,EditGroup:()=>u.EditGroup});var i=e(91092),u=e(87014)}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[84625],{84625:(s,t,a)=>{a.r(t),a.d(t,{featureGateConfig:()=>i});var e=a(7955),i={console:{application:{signIn:{adaptiveAuth:{status:e.iK.DEFAULT,tags:[]},status:e.iK.DEFAULT},status:e.iK.DEFAULT},saasFeatures:{status:e.iK.DISABLED},status:e.iK.DEFAULT}}}}]);

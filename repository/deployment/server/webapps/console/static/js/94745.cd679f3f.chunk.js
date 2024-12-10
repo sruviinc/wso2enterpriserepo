@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[94745],{48492:(s,e,o)=>{o.r(e)}}]);

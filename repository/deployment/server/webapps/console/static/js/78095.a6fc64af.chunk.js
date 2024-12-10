@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[78095],{78095:(s,e,o)=>{o.r(e),o.d(e,{AddAPIResource:()=>c.AddAPIResource,AddAPIResourcePermission:()=>d.AddAPIResourcePermission});var c=o(41723),d=o(972)}}]);

@@ -1,0 +1,15 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+WSO2 Carbon - SCIM2 - Service Provider Feature
+
+
+From: 'WSO2' (http://www.wso2.org/)
+  - WSO2 Carbon - SCIM 2.0 - Service Provider Component (http://wso2.org/components/org.wso2.carbon.identity.scim2.provider) org.wso2.carbon.identity.inbound.provisioning.scim2:org.wso2.carbon.identity.scim2.provider:war:3.4.67
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+

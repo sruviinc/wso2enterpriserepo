@@ -1,0 +1,23 @@
+{
+  "locales": [
+    "en-US",
+    "de-DE",
+    "es-ES",
+    "fr-FR",
+    "ja-JP",
+    "pt-BR",
+    "pt-PT",
+    "zh-CN"
+  ],
+  "screens": [
+    "common",
+    "login",
+    "sms-otp",
+    "email-otp",
+    "totp",
+    "sign-up",
+    "password-recovery",
+    "password-reset",
+    "password-reset-success"
+  ]
+}

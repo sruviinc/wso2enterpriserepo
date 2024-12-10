@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[43240],{43240:(e,s,o)=>{o.r(s),o.d(s,{AddRoleUsers:()=>t.AddRoleUsers,CreateRoleSummary:()=>i.CreateRoleSummary,CreateRoleWizard:()=>r.CreateRoleWizard,PermissionList:()=>a.PermissionList,RoleBasics:()=>l.RoleBasics});var r=o(24001),a=o(19011),i=o(43351),l=o(79960),t=o(53214)}}]);

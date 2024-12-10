@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[18224],{18224:(e,s,o)=>{o.r(s),o.d(s,{getFeatureGateResourceEndpoints:()=>t.getFeatureGateResourceEndpoints});var t=o(54591)}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[95354],{95354:(s,e,c)=>{s.exports=c.p+"static/media/07df01eca5c2ba45.png"}}]);

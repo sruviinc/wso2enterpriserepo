@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[11059],{11059:(s,e,o)=>{var n;o.r(e),o.d(e,{Region:()=>n}),function(s){s.US="US",s.EU="EU"}(n||(n={}))}}]);

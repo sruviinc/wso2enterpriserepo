@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_wso2is_console=self.webpackChunk_wso2is_console||[]).push([[88249],{88249:(i,o,s)=>{s.r(o),s.d(o,{SDKMeta:()=>l});var a,n=s(63793),l=null===n.applicationConfig||void 0===n.applicationConfig||null===(a=n.applicationConfig.quickstart)||void 0===a?void 0:a.spa}}]);
